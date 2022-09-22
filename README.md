@@ -32,6 +32,7 @@
 1. HuggingFace Diffusers [Github](https://github.com/huggingface/diffusers), backend library to run LD/SD and other models
 1. Diffusionbee [Github](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui), for Mac
 1. AbdBarho Docker [Github](https://github.com/AbdBarho/stable-diffusion-webui-docker), docker setup for other webui (support sd-webui, AUTOMATIC1111 & invoke-AI)
+1. NeonSecret [Github](https://github.com/neonsecret/stable-diffusion) & Basunjidal [Github](https://github.com/basujindal/stable-diffusion), optimized fork. (Do note that some of the changes has also been incorporated to other UI already)
 1. FvsionAI [Github](https://github.com/FvsionAI/fvsion), using Vite+Vue as FrontEnd and FastAPI as backend
 
 
